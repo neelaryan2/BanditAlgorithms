@@ -1,0 +1,2 @@
+https://github.com/zakaryaxali/bandits_kl-ucb
+https://stackoverflow.com/questions/15915446/why-does-numpy-random-dirichlet-not-accept-multidimensional-arrays
